@@ -18,7 +18,7 @@ Untuk diterima di posisi Android Developer, Anda harus menyelesaikan tantangan b
 	- Terkoneksi ke [Github API](http://developer.github.com/)
 	- Cari repositori [laravolt/indonesia](https://github.com/laravolt/indonesia)
 	- Cari *commit* paling mutakhir (paling sedikit 25 *commit* terakhir atau lebih)
-	- Buatlah sebuah RecyclerView yang menampilkan *view* dengan data *commit* mutakhir dari pengembang sebagai berikut: nama pengembang, kode *commit*, pesan *commit*. Desain tampilan data ini bebas.
+	- Dari data *commit* termutakhir tadi buatlah sebuah RecyclerView yang menampilkan *view* dengan data yang ditampilkan sebagai berikut: nama pengembang, kode *commit*, pesan *commit*. Desain tampilan data ini bebas.
 4. *Commit* dan *Push* kode Anda ke repositori baru Anda.
 5. Kirimkan *pull request* kepada kami. 
 6. Kami akan melakukan peninjauan terhadap kode Anda dan Anda akan kami hubungi kembali.
